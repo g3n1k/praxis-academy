@@ -1,0 +1,15 @@
+1. cat
+2. cd
+3. chmod
+4. chown
+5. cp
+6. date
+7. echo
+8. exit
+9. ssh
+10. ln
+11. ls
+12. ping
+13. pwd
+14. poweroff
+15. reboot

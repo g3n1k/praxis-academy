@@ -1,0 +1,57 @@
+bash First.sh
+Hello World
+	
+bash echo_example.sh
+Printing text with newline
+Printing text without newline
+Removing 	 backslash 	 characters
+
+bash comment_example.sh 
+60
+
+bash multiline-comment.sh
+25
+
+bash while_example.sh 
+1
+2
+3
+4
+5
+
+bash for_example.sh 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+bash user_input.sh 
+Enter Your Name
+indra
+Welcome indra to LinuxHint
+
+bash simple_if.sh 
+It is a two digit number
+
+bash if_with_and.sh 
+Enter username
+indra
+Enter password
+ganteng
+invalid user
+
+bash if_with_or.sh 
+Enter any number
+75
+You lost the game
+
+bash elseif_example.sh 
+Enter your lucky number
+90
+Sorry, try for the next time
